@@ -17,7 +17,7 @@
 
 <div style="background: linear-gradient(135deg, #ff7e5f, #feb47b); color: white; padding: 40px; border-radius: 15px; text-align: center; font-size: 2em; margin: 20px 0; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
   <b>Project Status: Closed-Beta</b><br>
-  <span style="font-size: 0.6em;">Currently in closed beta testing. Sign up for access [here](YOUR-SIGNUP-URL-HERE).</span>
+  <span style="font-size: 0.6em;">Currently in closed beta testing. Sign up for access .</span>
 </div>
 
 ---
