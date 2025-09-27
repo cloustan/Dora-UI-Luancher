@@ -36,7 +36,7 @@ Dora UI Launcher is a **smart, simple, and intelligent** launcher designed to en
 
 ---
 
-## 🌟 Interactive 3D Preview (Inspired by Apple)
+## 🌟 Interactive 3D Preview 
 
 Experience a 3D-like interactive preview of Dora UI Launcher, reminiscent of Apple's dynamic product showcases. Hover over the card to see it rotate in 3D space.
 
