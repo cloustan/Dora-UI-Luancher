@@ -49,7 +49,7 @@ Experience a 3D-like interactive preview of Dora UI Launcher, reminiscent of App
 
 ```bash
 # Example command for installation (replace with actual commands)
-git clone YOUR-REPO-URL-HERE
+git clone https://github.com/cloustan/Dora-UI-Luancher.git
 cd Dora-UI-Launcher
 ./install.sh
 ```
