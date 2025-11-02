@@ -46,8 +46,8 @@ This project is currently in **public beta**.
 
 ## 🛠️ Installation
 
-1.  **Download**: Go to the [**Releases**](https://github.com/cloustan/android-dora-on-android/releases) page and download the latest `.apk` file (e.g., `Dora-v2.10-beta.apk`).
+1.  **Download**: Go to the [**Releases**](https://github.com/cloustan/android-dora-on-android/releases) page and download the latest `.apk` file (e.g., `Dora-vxxx-beta.apk`).
 2.  **Install**: Open the downloaded file on your Android device. You may need to grant your browser permission to "install from unknown sources" in your device's settings.
-3.  **Launch**: Open Dora UI Launcher from your app drawer and set it as your default home app to get the full experience.
+3.  **Launch**: Open Dora UI from your app drawer and set it as your default home app to get the full experience.
 
 ---
