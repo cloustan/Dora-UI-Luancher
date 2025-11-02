@@ -39,6 +39,8 @@ This project is currently in **public beta**.
 - **Dora Pilot:** An intelligent AI assistant to provide proactive suggestions and shortcuts.
 - **Glanceable Widgets:** At-a-glance information for weather, calendar, and more.
 - **Deep Customization:** Advanced theme and layout controls.
+- **So much more to come!**
+  
 
 ---
 
