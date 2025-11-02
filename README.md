@@ -36,9 +36,10 @@ This project is currently in **public beta**.
 - **Lightweight & Fast:** Designed to be responsive and efficient.
 
 ### Planned
-- **Dora Pilot:** An intelligent AI assistant to provide proactive suggestions and shortcuts.
+- **Dora Pilot:** An agentic AI assistant that can perform actiosn on your behalf and provide proactive suggestions and shortcuts.
 - **Glanceable Widgets:** At-a-glance information for weather, calendar, and more.
 - **Deep Customization:** Advanced theme and layout controls.
+- **Dora Sync:** Sync without limits!.
 - **So much more to come!**
   
 
