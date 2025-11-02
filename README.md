@@ -1,7 +1,7 @@
 # Dora UI Launcher
 
 <p align="center">
-  <img src="YOUR-LOGO-URL-HERE" alt="Dora UI Launcher Logo" width="150"/>
+  <img src="assets.styles.dora.cloustan.org/dora-logo.png" alt="Dora UI Launcher Logo" width="150"/>
 </p>
 
 <p align="center">
