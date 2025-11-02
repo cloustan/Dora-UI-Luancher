@@ -5,51 +5,47 @@
 </p>
 
 <p align="center">
-  <b>A Smart, Simple, Intelligent Launcher for Your Digital World</b><br>
-  Streamline your workflow with elegance and efficiency.
+  <b>A Smart, Simple, Intelligent Launcher for Your Android Device</b><br>
+  Built to streamline your workflow with elegance and efficiency.
 </p>
 
 <p align="center">
-  <a href="YOUR-GITHUB-REPO-URL-HERE"><img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub"></a>
-  <a href="YOUR-DEMO-URL-HERE"><img src="https://img.shields.io/badge/Demo-Live-green" alt="Demo"></a>
-  <a href="YOUR-DOCS-URL-HERE"><img src="https://img.shields.io/badge/Docs-Read%20More-orange" alt="Docs"></a>
+  <a href="https://github.com/cloustan/android-dora-on-android"><img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub Repository"></a>
+  <a href="https://github.com/cloustan/android-dora-on-android/releases/latest"><img src="https://img.shields.io/github/v/release/cloustan/android-dora-on-android?label=Latest%20Release&logo=github" alt="Latest Release"></a>
 </p>
 
 ---
 
 ## 🚀 About Dora UI Launcher
 
-Dora UI Launcher is a **smart, simple, and intelligent** launcher designed to enhance your productivity and simplify your digital experience. With a sleek interface and powerful features, Dora empowers you to achieve more.
+Dora UI Launcher is an Android launcher for users who value focus, minimalism, and intelligence. It's designed to provide a clean, uncluttered home screen experience that helps you interact with your device more intentionally.
 
-- **Smart**: Adaptive features that learn your habits.
-- **Simple**: Clean, intuitive design for seamless navigation.
-- **Intelligent**: AI-driven shortcuts and personalized suggestions.
+- **Simple**: A clean, intuitive design for seamless navigation.
+- **Smart**: Built with a foundation for future AI-driven features.
+- **Focused**: Reduces digital noise so you can focus on what matters.
 
----
-
-## 🌟 Interactive 3D Preview 
-
-Experience a 3D-like interactive preview of Dora UI Launcher, reminiscent of Apple's dynamic product showcases. Hover over the card to see it rotate in 3D space.
+This project is currently in **public beta**.
 
 ---
 
 ## ✨ Features
 
-- Customizable UI
-- AI Shortcuts
-- Cross-Platform
+### Current
+- **Minimalist Home Screen:** A clean, list-based layout for your essential apps.
+- **Core Stability:** Focused on providing a smooth, crash-free core experience.
+- **Lightweight & Fast:** Designed to be responsive and efficient.
+
+### Planned
+- **Dora Pilot:** An intelligent AI assistant to provide proactive suggestions and shortcuts.
+- **Glanceable Widgets:** At-a-glance information for weather, calendar, and more.
+- **Deep Customization:** Advanced theme and layout controls.
 
 ---
 
 ## 🛠️ Installation
 
-1. **Download**: Get the latest release from [Releases](YOUR-RELEASES-URL-HERE).
-2. **Install**: Follow the setup instructions for your platform.
-3. **Launch**: Open Dora UI Launcher and customize your experience.
+1.  **Download**: Go to the [**Releases**](https://github.com/cloustan/android-dora-on-android/releases) page and download the latest `.apk` file (e.g., `Dora-v2.10-beta.apk`).
+2.  **Install**: Open the downloaded file on your Android device. You may need to grant your browser permission to "install from unknown sources" in your device's settings.
+3.  **Launch**: Open Dora UI Launcher from your app drawer and set it as your default home app to get the full experience.
 
-```bash
-# Example command for installation (replace with actual commands)
-git clone https://github.com/cloustan/Dora-UI-Luancher.git
-cd Dora-UI-Launcher
-./install.sh
-```
+---
