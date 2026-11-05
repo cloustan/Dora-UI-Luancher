@@ -4,6 +4,18 @@
   <img src="https://assets.dorastyles.dora.cloustan.org/assets/dora-logo.png" alt="Dora UI Launcher Logo" width="150"/>
 </p>
 
+
+<p align="center">
+  
+  # Say hello to Serenii OS. The next generation of mobile interaction, built to replace Dora UI.
+
+  <b> Dora UI will remain free and open source.<b>
+  
+</p>
+
+<details>
+<summary>Dora UI</summary>
+
 <p align="center">
   <b>A Smart, Simple, Intelligent Launcher for Your Android Device</b><br>
   Built to streamline your workflow with elegance and efficiency.
@@ -52,3 +64,5 @@ This project is currently in **public beta**.
 3.  **Launch**: Open Dora UI from your app drawer and set it as your default home app to get the full experience.
 
 ---
+
+</details>
